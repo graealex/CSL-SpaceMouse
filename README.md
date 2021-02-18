@@ -5,7 +5,7 @@ To use the mod, subscribe to [this workshop item](https://steamcommunity.com/sha
 
 Use the 3Dconnexion software to control sensitivity and reverse axis. For more control like remapping axis completely, edit the configuration file created by the 3Dconnexion software, which can usually be found here:
 
-C:\Users\[USERNAME]\AppData\Roaming\3Dconnexion\3DxWare\Cfg\Cities.xml
+C:\Users\\[USERNAME]\AppData\Roaming\3Dconnexion\3DxWare\Cfg\Cities.xml
 
 or use the "Import/Export settings" function, which can be found in the software after a click on "More >". If you are editing the changes directly in the XML in the Cfg folder, no restart of the game or the 3Dconnexion software is required to apply the settings, as the software watches for file modifications and automatically applies them after you save the file.
 
